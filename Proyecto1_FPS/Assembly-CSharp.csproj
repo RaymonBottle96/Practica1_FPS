@@ -95,9 +95,11 @@
      <Compile Include="Assets\_GameAssets\Scripts\Player\Shooter\FPSShoot.cs" />
      <Compile Include="Assets\_GameAssets\3DModels\Standard Assets\Utility\SmoothFollow.cs" />
      <Compile Include="Assets\_GameAssets\3DModels\Standard Assets\Cameras\Scripts\FreeLookCam.cs" />
+     <Compile Include="Assets\_GameAssets\Scripts\Enemies\EnemyMovement\DestroyBullet.cs" />
      <Compile Include="Assets\_GameAssets\3DModels\Standard Assets\Utility\AutoMoveAndRotate.cs" />
      <Compile Include="Assets\_GameAssets\3DModels\Standard Assets\Utility\FOVKick.cs" />
      <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_AutoRotate.cs" />
+     <Compile Include="Assets\_GameAssets\Scripts\Player\Shooter\Gun\Gun.cs" />
      <Compile Include="Assets\_GameAssets\3DModels\Standard Assets\ParticleSystems\Scripts\AfterburnerPhysicsForce.cs" />
      <Compile Include="Assets\_GameAssets\3DModels\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneController.cs" />
      <Compile Include="Assets\_GameAssets\Scripts\TestRandom.cs" />
@@ -144,7 +146,7 @@
      <Compile Include="Assets\_GameAssets\3DModels\Standard Assets\Environment\Water\Water\Scripts\SpecularLighting.cs" />
      <Compile Include="Assets\_GameAssets\3DModels\Standard Assets\Utility\FPSCounter.cs" />
      <Compile Include="Assets\_GameAssets\3DModels\Standard Assets\Utility\SimpleActivatorMenu.cs" />
-     <Compile Include="Assets\_GameAssets\Scripts\Enemies\EnemyMovement\DestroyBullet.cs" />
+     <Compile Include="Assets\_GameAssets\Scripts\Enemies\EnemyMovement\Target.cs" />
      <None Include="Assets\Samples\Terrain Tools\0.1.0-preview\Terrain Assets\ThirdPartyNotices.txt" />
      <None Include="Assets\_GameAssets\3DModels\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
      <None Include="Assets\_GameAssets\3DModels\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
