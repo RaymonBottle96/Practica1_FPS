@@ -78,9 +78,10 @@
      <Compile Include="Assets\_GameAssets\3DModels\Standard Assets\Utility\ObjectResetter.cs" />
      <Compile Include="Assets\_GameAssets\3DModels\Standard Assets\Utility\AutoMobileShaderSwitch.cs" />
      <Compile Include="Assets\_GameAssets\3DModels\Standard Assets\Cameras\Scripts\ProtectCameraFromWallClip.cs" />
-     <Compile Include="Assets\_GameAssets\Scripts\TestRay2.cs" />
+     <Compile Include="Assets\_GameAssets\Scripts\Enemies\EnemyMovement\Target.cs" />
      <Compile Include="Assets\_GameAssets\Scripts\Player\Shooter\WeaponManager.cs" />
      <Compile Include="Assets\_GameAssets\3DModels\Standard Assets\Characters\ThirdPersonCharacter\Scripts\AICharacterControl.cs" />
+     <Compile Include="Assets\_GameAssets\Scripts\TestRay2.cs" />
      <Compile Include="Assets\_GameAssets\3DModels\Standard Assets\Environment\Water\Water\Scripts\Displace.cs" />
      <Compile Include="Assets\_GameAssets\3DModels\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneControlSurfaceAnimator.cs" />
      <Compile Include="Assets\_GameAssets\3DModels\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs" />
@@ -146,7 +147,7 @@
      <Compile Include="Assets\_GameAssets\3DModels\Standard Assets\Environment\Water\Water\Scripts\SpecularLighting.cs" />
      <Compile Include="Assets\_GameAssets\3DModels\Standard Assets\Utility\FPSCounter.cs" />
      <Compile Include="Assets\_GameAssets\3DModels\Standard Assets\Utility\SimpleActivatorMenu.cs" />
-     <Compile Include="Assets\_GameAssets\Scripts\Enemies\EnemyMovement\Target.cs" />
+     <Compile Include="Assets\_GameAssets\Scripts\BossEnemy\BossScene\EnterCastle.cs" />
      <None Include="Assets\Samples\Terrain Tools\0.1.0-preview\Terrain Assets\ThirdPartyNotices.txt" />
      <None Include="Assets\_GameAssets\3DModels\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
      <None Include="Assets\_GameAssets\3DModels\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
