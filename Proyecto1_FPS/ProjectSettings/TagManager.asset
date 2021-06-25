@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
+  - Bullets
+  - FirstAid
+  - Boss
+  - Destiny
   layers:
   - Default
   - TransparentFX
@@ -17,16 +21,16 @@ TagManager:
   - WhatIsGround
   - WhatIsPlayer
   - Enemy
+  - Player
+  - target
   - 
   - 
-  - 
-  - 
-  - 
+  - TakeGun
   - testR
+  - Ammunation
   - 
   - 
-  - 
-  - 
+  - Boss
   - 
   - 
   - 
